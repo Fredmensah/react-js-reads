@@ -2,7 +2,7 @@
 A list of react good reads as a developer
 
 - [SSR](#SSR)
-- [Code Splitting](#'Code Splitting')
+- ['Code Splitting'](#Code Splitting)
 
 
 <!-- toc -->
